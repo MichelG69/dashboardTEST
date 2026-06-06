@@ -1,5 +1,4 @@
-```text
-   streamlit
-   requests
-   pandas
-   plotly
+streamlit
+requests
+pandas
+plotly
